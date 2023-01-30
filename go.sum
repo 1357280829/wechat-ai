@@ -1,0 +1,6 @@
+github.com/eatmoreapple/openwechat v1.3.6 h1:0gu6l2CVBUNrjton94CPLfmo4EbJuiEwSnmbz8ldsw0=
+github.com/eatmoreapple/openwechat v1.3.6/go.mod h1:61HOzTyvLobGdgWhL68jfGNwTJEv0mhQ1miCXQrvWU8=
+github.com/sashabaranov/go-gpt3 v0.0.0-20221216095610-1c20931ead68 h1:0g+W77usi8tTHViKpQQr7MHphLsI32zX8HtOeigDGKo=
+github.com/sashabaranov/go-gpt3 v0.0.0-20221216095610-1c20931ead68/go.mod h1:BIZdbwdzxZbCrcKGMGH6u2eyGe1xFuX9Anmh3tCP8lQ=
+github.com/sashabaranov/go-gpt3 v0.0.0-20230128191859-3695eb3ade92 h1:bn0s4wtByB3cLYZZknK4NJG37MvojJ9o1hCzXAwpf7U=
+github.com/sashabaranov/go-gpt3 v0.0.0-20230128191859-3695eb3ade92/go.mod h1:BIZdbwdzxZbCrcKGMGH6u2eyGe1xFuX9Anmh3tCP8lQ=
